@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.env
+
+# Distribution / packaging
+.Python
+build/
+dist/
+develop-eggs/
+eggs/
+sdist/
+var/
+parts/
+sdists/
+wheels/
+*.egg
+.venv/
+venv/
+env/
+# OS specific
+.DS_Store
+
+# Cursor files
+.cursor/
+
+mcp_tool_env/ 
