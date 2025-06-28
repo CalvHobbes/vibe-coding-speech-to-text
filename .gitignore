@@ -25,6 +25,5 @@ env/
 .DS_Store
 
 # Cursor files
-.cursor/
 
 mcp_tool_env/ 
