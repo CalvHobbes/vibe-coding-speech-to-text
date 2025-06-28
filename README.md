@@ -79,4 +79,8 @@ MIT
 
 ---
 
-For questions or contributions, please open an issue or pull request on GitHub. 
+For questions or contributions, please open an issue or pull request on GitHub.
+
+## My Observations
+1) I'm using a local Whisper medium model on my Mac (Apple M2 Pro/16 GB), so it was a little slow for sure
+2) It was very interesting to see what the Whisper model returned when I didn't speak - most times it returned "Thanks for watching", sometimes the equivalent of that in Chinese! Once, it returned "MBC 뉴스 김수근입니다", which is Korean for ""This is MBC News, Kim Soo-geun.". I get the model hallucinating to return "Thanks for watching", as that's apparently a very frequent phrase it saw in its training set, but the other two are rather intriguing. 
