@@ -2,6 +2,8 @@
 
 This project provides an MCP (Model Context Protocol) server for Speech-to-Text using OpenAI Whisper, FastMCP, and Voice Activity Detection (VAD). It allows MCP clients to send speech data for real-time transcription.
 
+Once this MCP server is added to a vide coding IDE like Cursor, the user can talk to the Cursor agent instead of typing.
+
 ## Features
 - Real-time speech-to-text transcription using Whisper
 - Voice Activity Detection for efficient audio processing
