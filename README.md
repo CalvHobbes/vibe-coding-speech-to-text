@@ -1,6 +1,6 @@
 # MCP Speech-to-Text Server
 
-This project provides an MCP (Modular Command Platform) server for Speech-to-Text using OpenAI Whisper, FastMCP, and Voice Activity Detection (VAD). It allows MCP clients to send speech data for real-time transcription.
+This project provides an MCP (Model Context Protocol) server for Speech-to-Text using OpenAI Whisper, FastMCP, and Voice Activity Detection (VAD). It allows MCP clients to send speech data for real-time transcription.
 
 ## Features
 - Real-time speech-to-text transcription using Whisper
