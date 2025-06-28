@@ -52,7 +52,7 @@ Configure your MCP client to use the `mcp_speech_to_text_server.main` module as 
 ```
 
 ### Cursor Voice Control Rules
-To enable voice control within Cursor, you can configure a project specific rule such as the one in voice_control_rules.mdc
+To enable voice control within Cursor, you can configure a project specific rule such as the one in [.cursor/rules/voice_control_rules.mdc](.cursor/rules/voice_control_rules.mdc)
 
 
 ## Microphone Test Utility (`mic_test.py`)
